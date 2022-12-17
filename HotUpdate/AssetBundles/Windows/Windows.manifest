@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 3977235486
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: model
+      Dependencies: {}
+    Info_1:
+      Name: image
+      Dependencies: {}
+    Info_2:
+      Name: material
+      Dependencies: {}
