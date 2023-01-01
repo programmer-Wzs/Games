@@ -1,3 +1,9 @@
+
+Box项目包含：
+	ABLoder.cs AB包加载器
+	背包系统（还未完成）：显示正常，部分逻辑还未完成
+
+
 HotUpdate项目包含：
 	a. 生成AB包(Assets/Editor)
 	b. 热更新(Assets/Script)

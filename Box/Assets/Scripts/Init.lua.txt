@@ -1,0 +1,16 @@
+
+print("Init Run")
+
+
+-- Êý¾Ý¶ÁÈ¡
+Data = 
+{
+	
+}
+
+local  a = CS.ItemInfo()
+a.text = "whh"
+
+print(a.text)
+
+
